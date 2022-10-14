@@ -8,12 +8,12 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-#nav2{
+#logo{
     background-image: none;
     display: flex;
     justify-content: center
 }
 
-#nav2 a{
+#logo a{
     width: 275px;
 }
