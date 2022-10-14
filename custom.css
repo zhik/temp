@@ -9,5 +9,11 @@
 - - - - - - - - - - - - - - - - - - - - - */
 
 #nav2{
-    background-color: red;
+    background-image: none;
+    display: flex;
+    justify-content: center
+}
+
+#nav2 a{
+    width: 275px;
 }
