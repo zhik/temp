@@ -36,18 +36,18 @@
 .wufoo-dropdown-menu li,
 .likert tbody th label,
 .wufoo label.choice{
-    font-size: 95%;
+    font-size: 95% !important; 
 }
 
 /* margins and random items */
 #title6{
-     display: none
+     display: none !important;
 }
 
 #fo7li6 h3{
-    margin-top: 0px;
+    margin-top: 0px !important;
 }
 
 section div{
-   margin-bottom: 0.5rem;
+   margin-bottom: 0.5rem !important;
 }
