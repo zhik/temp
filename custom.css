@@ -51,3 +51,7 @@
 section div{
    margin-bottom: 0.5rem !important;
 }
+
+.wufoo li{
+   width: 100% !important;
+}
